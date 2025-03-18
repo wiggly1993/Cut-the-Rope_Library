@@ -1,3 +1,4 @@
+```markdown
 # CTR Python
 
 A Python library for analyzing security games on attack graphs with both complete and limited defender visibility.
@@ -8,11 +9,11 @@ A Python library for analyzing security games on attack graphs with both complet
 # Install directly from GitHub repository
 # 1. create a new venv
 # 2. run:
-pip install git+https://github.com/wiggly1993/Python_Implementation_ComputersAndSecurity_RoboticsCaseStudies_Cut-The-Rope.git#subdirectory=src/0Day_Library
+pip install git+https://github.com/wiggly1993/Cut-the-Rope_Library.git#subdirectory=src/0Day_Library
 
 # Or clone and install from source
-git clone https://github.com/wiggly1993/Python_Implementation_ComputersAndSecurity_RoboticsCaseStudies_Cut-The-Rope.git
-cd Python_Implementation_ComputersAndSecurity_RoboticsCaseStudies_Cut-The-Rope/src/0Day_Library
+git clone https://github.com/wiggly1993/Cut-the-Rope_Library.git
+cd Cut-the-Rope_Library/src/0Day_Library
 pip install -e .
 ```
 
@@ -124,3 +125,4 @@ Results are stored in log files in the current directory:
 - Compare different movement models for attackers and defenders
 - Evaluate the impact of edge weights on attacker success probability
 - Determine optimal defense strategies under various scenarios
+```
