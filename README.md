@@ -8,11 +8,11 @@ A Python library for analyzing security games on attack graphs with both complet
 # Install directly from GitHub repository
 # 1. create a new venv
 # 2. run:
-pip install git+https://github.com/wiggly1993/Cut-the-Rope_Library.git#subdirectory=src/0Day_Library
+pip install git+https://github.com/wiggly1993/Cut-the-Rope_Library.git
 
 # Or clone and install from source
 git clone https://github.com/wiggly1993/Cut-the-Rope_Library.git
-cd Cut-the-Rope_Library/src/0Day_Library
+cd Cut-the-Rope_Library
 pip install -e .
 ```
 
